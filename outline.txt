@@ -1,4 +1,5 @@
 Lets meet the 4 characters.
 
 chapter 1 started. 
-chapter 2 ended.
+chapter 1 ended.
+chapter 1 split into chap1 and chap2.
